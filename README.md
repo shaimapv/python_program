@@ -25,7 +25,7 @@ This Python script demonstrates how to use the `file` and `flush` parameters wit
 - Finally, it writes one more line to the file without a delay.
 
 
-# Python Operators(operators.py)
+# 3. Python Operators(operators.py)
 
 ##  Description
 
