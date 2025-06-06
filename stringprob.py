@@ -38,6 +38,33 @@ else :
     print("invalid choice")
 
 
+
+""" PS C:\training\1st task> python stringprob.py
+enter a string : hello
+1:number of vowels and consonants 
+2:is pallindrome or not 
+3:frequency of letters
+enter your choice : 1
+number of vowels =  2
+number of consonant =  3
+PS C:\training\1st task> python stringprob.py
+enter a string : hello
+1:number of vowels and consonants
+2:is pallindrome or not
+3:frequency of letters
+enter your choice : 2
+string is not a pallindrome
+PS C:\training\1st task> python stringprob.py
+enter a string : hello
+1:number of vowels and consonants
+2:is pallindrome or not
+3:frequency of letters
+enter your choice : 3
+count of  h is  1
+count of  l is  2
+count of  o is  1
+count of  e is  1 """ 
+
     
 
 
