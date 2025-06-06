@@ -39,7 +39,8 @@ else :
 
 
 
-""" PS C:\training\1st task> python stringprob.py
+""" output:
+PS C:\training\1st task> python stringprob.py
 enter a string : hello
 1:number of vowels and consonants 
 2:is pallindrome or not 
