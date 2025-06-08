@@ -49,3 +49,23 @@ The following operator categories are demonstrated:
    - Identity Operators: `is`, `is not`
    - Membership Operators: `in`, `not in`
 
+#  Display Monthly Calendar in Python
+
+This is a simple Python program to display the calendar of a given month and year using the built-in `calendar` module.
+
+##  Description
+
+- The user is prompted to enter a **month (1–12)**.
+- If the month is valid, the user is then asked to enter a **year**.
+- The program prints the calendar of the specified month and year.
+
+# Display Monthly Calendar Using `datetime` Module
+
+This is a Python program that prints the calendar of a specific month and year using only the built-in `datetime` module — **no `calendar` module is used**.
+
+##  Description
+
+- Prompts the user to enter a **year** and a **month (1–12)**.
+- Calculates the number of days in the given month.
+- Finds the day on which the month starts.
+- Displays the calendar layout with correct weekday alignment starting from **Monday**.
