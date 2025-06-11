@@ -69,3 +69,29 @@ This is a Python program that prints the calendar of a specific month and year u
 - Calculates the number of days in the given month.
 - Finds the day on which the month starts.
 - Displays the calendar layout with correct weekday alignment starting from **Monday**.
+
+# XOR Operation in Python
+
+This is a simple Python program that demonstrates the use of the **bitwise XOR (`^`) operator**.
+
+##  What It Does
+
+The program:
+- Takes two integer inputs from the user.
+- Performs a **bitwise XOR** operation on the two numbers.
+- Prints the result.
+
+# Left Shift and Right Shift Operations in Python
+
+This Python script demonstrates the use of **bitwise left shift (`<<`)** and **right shift (`>>`)** operators.
+
+##  What It Does
+
+- Takes two integer inputs from the user:
+  - A number (`num1`)
+  - A number of positions to shift (`num2`)
+- Performs:
+  - **Left shift** (`num1 << num2`)
+  - **Right shift** (`num1 >> num2`)
+- Prints the results.
+
