@@ -95,3 +95,19 @@ This Python script demonstrates the use of **bitwise left shift (`<<`)** and **r
   - **Right shift** (`num1 >> num2`)
 - Prints the results.
 
+# Python Quiz Game
+A command-line Quiz Game built using Python, designed to test your knowledge through 3 levels of multiple-choice questions. It uses all major control flow statements (if, elif, else, for, while, continue, break, pass, and ternary operators) — making it great for both fun and learning.
+
+## Features
+- Interactive quiz with 3 difficulty levels
+
+- Score tracking and level-wise evaluation
+
+- Must answer at least 2 out of 3 correctly to pass a level
+
+- Option to replay the game after completion or failure
+
+- Includes validation for correct answer input
+
+- Uses all control flow concepts in Python
+
