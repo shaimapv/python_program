@@ -111,3 +111,7 @@ A command-line Quiz Game built using Python, designed to test your knowledge thr
 
 - Uses all control flow concepts in Python
 
+# list operations (list_oper.py)
+
+This Python program demonstrates all the major functionalities of the built-in `list` data structure in Python. It is useful for beginners who want to learn how to work with lists efficiently.
+
