@@ -124,4 +124,8 @@ This Python program demonstrates all the major functionalities of the built-in `
 # Set operations(set_oper.py)
 This Python program demonstrates all the major functionalities of the built-in `set` data structure in Python. It is useful for beginners who want to learn how to work with sets efficiently.
 
+# Lambda function (lamda.py)
+This Python script demonstrates how to sort a list of students (represented as tuples of name and age) by their age using a lambda function.
 
+# Simple calculator using function
+This program takes two numbers and an arithmetic operator from the user and performs the corresponding calculation using separate functions for each operation.
