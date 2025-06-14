@@ -115,3 +115,13 @@ A command-line Quiz Game built using Python, designed to test your knowledge thr
 
 This Python program demonstrates all the major functionalities of the built-in `list` data structure in Python. It is useful for beginners who want to learn how to work with lists efficiently.
 
+# Tuple operations (tuple_oper.py)
+This Python program demonstrates all the major functionalities of the built-in `tuple` data structure in Python. It is useful for beginners who want to learn how to work with tuples efficiently.
+
+# Dictionary operations(dic_oper.py)
+This Python program demonstrates all the major functionalities of the built-in `dictionary` data structure in Python. It is useful for beginners who want to learn how to work with dictionaries efficiently.
+
+# Set operations(set_oper.py)
+This Python program demonstrates all the major functionalities of the built-in `set` data structure in Python. It is useful for beginners who want to learn how to work with sets efficiently.
+
+
