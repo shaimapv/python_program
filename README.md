@@ -49,7 +49,7 @@ The following operator categories are demonstrated:
    - Identity Operators: `is`, `is not`
    - Membership Operators: `in`, `not in`
 
-#  Display Monthly Calendar in Python
+# 4. Display Monthly Calendar in Python
 
 This is a simple Python program to display the calendar of a given month and year using the built-in `calendar` module.
 
@@ -59,7 +59,7 @@ This is a simple Python program to display the calendar of a given month and yea
 - If the month is valid, the user is then asked to enter a **year**.
 - The program prints the calendar of the specified month and year.
 
-# Display Monthly Calendar Using `datetime` Module
+# 5. Display Monthly Calendar Using `datetime` Module
 
 This is a Python program that prints the calendar of a specific month and year using only the built-in `datetime` module — **no `calendar` module is used**.
 
@@ -70,7 +70,7 @@ This is a Python program that prints the calendar of a specific month and year u
 - Finds the day on which the month starts.
 - Displays the calendar layout with correct weekday alignment starting from **Monday**.
 
-# XOR Operation in Python
+# 6. XOR Operation in Python
 
 This is a simple Python program that demonstrates the use of the **bitwise XOR (`^`) operator**.
 
@@ -81,7 +81,7 @@ The program:
 - Performs a **bitwise XOR** operation on the two numbers.
 - Prints the result.
 
-# Left Shift and Right Shift Operations in Python
+# 7.Left Shift and Right Shift Operations in Python
 
 This Python script demonstrates the use of **bitwise left shift (`<<`)** and **right shift (`>>`)** operators.
 
@@ -95,7 +95,7 @@ This Python script demonstrates the use of **bitwise left shift (`<<`)** and **r
   - **Right shift** (`num1 >> num2`)
 - Prints the results.
 
-# Python Quiz Game
+# 8.Python Quiz Game
 A command-line Quiz Game built using Python, designed to test your knowledge through 3 levels of multiple-choice questions. It uses all major control flow statements (if, elif, else, for, while, continue, break, pass, and ternary operators) — making it great for both fun and learning.
 
 ## Features
@@ -111,21 +111,23 @@ A command-line Quiz Game built using Python, designed to test your knowledge thr
 
 - Uses all control flow concepts in Python
 
-# list operations (list_oper.py)
+# 9. list operations (list_oper.py)
 
 This Python program demonstrates all the major functionalities of the built-in `list` data structure in Python. It is useful for beginners who want to learn how to work with lists efficiently.
 
-# Tuple operations (tuple_oper.py)
+# 10. Tuple operations (tuple_oper.py)
 This Python program demonstrates all the major functionalities of the built-in `tuple` data structure in Python. It is useful for beginners who want to learn how to work with tuples efficiently.
 
-# Dictionary operations(dic_oper.py)
+# 11. Dictionary operations(dic_oper.py)
 This Python program demonstrates all the major functionalities of the built-in `dictionary` data structure in Python. It is useful for beginners who want to learn how to work with dictionaries efficiently.
 
-# Set operations(set_oper.py)
+# 12. Set operations(set_oper.py)
 This Python program demonstrates all the major functionalities of the built-in `set` data structure in Python. It is useful for beginners who want to learn how to work with sets efficiently.
 
-# Lambda function (lamda.py)
+# 13. Lambda function (lamda.py)
 This Python script demonstrates how to sort a list of students (represented as tuples of name and age) by their age using a lambda function.
 
-# Simple calculator using function
+# 14. Simple calculator using function
 This program takes two numbers and an arithmetic operator from the user and performs the corresponding calculation using separate functions for each operation.
+
+# 15.
